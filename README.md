@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my code..
 - 📫 How to reach me: https://www.linkedin.com/in/cevahirozgur/
 - 😄 Pronouns: she/her
-Languages and Tools:
-python pandas scikit_learn matplotlib sql
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/cevahirozgur) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@cevahirozgur) 
