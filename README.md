@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data science.
-- 🌱 I’m currently learning data scientist tools.
+- 🌱 I’m currently learning data scientist and machine learning tools.
 - 💬 Ask me about my code..
 - 📫 How to reach me: https://www.linkedin.com/in/cevahirozgur/
 - 😄 Pronouns: she/her
