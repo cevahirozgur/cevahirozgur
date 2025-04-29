@@ -1,13 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Cevahir👋
 
+🏫 M.Sc., Industrial Engineering at Sakarya University
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data science.
-- 🌱 I’m currently learning data scientist and machine learning tools.
+- 🌱 I’m currently deep learning.
 - 💬 Ask me about my code..
 - 📫 How to reach me: https://www.linkedin.com/in/cevahirozgur/
-- 😄 Pronouns: she/her
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/cevahirozgur) 
